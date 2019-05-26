@@ -12,7 +12,7 @@ This **SmartBrain App** is a face recognition app. This is the second version of
 
 
 ## This app looks like this:
-![screencapture-localhost-3000-2019-04-27-00_40_11](https://user-images.githubusercontent.com/43598622/56923892-7a1c9e00-6aed-11e9-9bad-324a42949b69.jpg)
+![screencapture-localhost-3000-2019-05-16-10_43_55](https://user-images.githubusercontent.com/43598622/58383932-dd6ef280-7ffd-11e9-9497-89f6a99ce8a6.jpg)
 
 ### Screenshot of Front or SignIn Page:
 ![screencapture-localhost-3000-2019-04-30-01_55_25](https://user-images.githubusercontent.com/43598622/56924019-bf40d000-6aed-11e9-9766-da3ef1de6110.jpg)
