@@ -1,6 +1,7 @@
 # SmartBrain-v2
 
 This **SmartBrain App** is a face recognition app. This is the second version of its **[frontend part](https://github.com/MalihaKabir/SmartBrain-FrontEndPart)** to connect it with nodejs api.
+You can also visit **[the third version](https://github.com/MalihaKabir/SmartBrain-v3)** of this app.
 
 ### To run this project:
 
