@@ -10,6 +10,7 @@ import SignIn from '../components/SignIn/SignIn';
 import Register from '../components/Register/Register';
 import './App.css';
 
+// You MUST get your own API from clarifai. See README.md file for details.
 const app = new Clarifai.App({
 	apiKey: '036f526ad4d4471d87379a83017d3cbf'
 });
